@@ -1,7 +1,8 @@
-Name: <Your name here>
+Name: Steven Parker
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: 
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: 
+	Built for Windows 10 in Visual Studio 2017
 
 ###
